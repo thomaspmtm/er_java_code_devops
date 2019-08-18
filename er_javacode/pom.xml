@@ -34,6 +34,7 @@
     		<connection>scm:git:git@github.com:thomaspmtm/er_java_code_devops.git</connection>
     		<developerConnection>scm:git:git@github.com:thomaspmtm/er_java_code_devops.git</developerConnection>
     		<url>git@github.com:thomaspmtm/er_java_code_devops.git</url>
+		<tag>HEAD</tag>
 	</scm>
 
 	<dependencies>
